@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\CMakeFiles\1e5f7f31b4856d26f7d9819254b37081\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0599B56C-88FD-36A7-860B-7BEE1E2A2105}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

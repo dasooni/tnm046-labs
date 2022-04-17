@@ -1,0 +1,12 @@
+//ad.liu.se/home/dasse788/Desktop/GLprimer/CMakeFiles/tnm046-labs.dir
+//ad.liu.se/home/dasse788/Desktop/GLprimer/CMakeFiles/INSTALL.dir
+//ad.liu.se/home/dasse788/Desktop/GLprimer/CMakeFiles/ALL_BUILD.dir
+//ad.liu.se/home/dasse788/Desktop/GLprimer/CMakeFiles/ZERO_CHECK.dir
+//ad.liu.se/home/dasse788/Desktop/GLprimer/glfw-3.3.2/CMakeFiles/uninstall.dir
+//ad.liu.se/home/dasse788/Desktop/GLprimer/glfw-3.3.2/CMakeFiles/INSTALL.dir
+//ad.liu.se/home/dasse788/Desktop/GLprimer/glfw-3.3.2/CMakeFiles/ALL_BUILD.dir
+//ad.liu.se/home/dasse788/Desktop/GLprimer/glfw-3.3.2/src/CMakeFiles/glfw.dir
+//ad.liu.se/home/dasse788/Desktop/GLprimer/glfw-3.3.2/src/CMakeFiles/INSTALL.dir
+//ad.liu.se/home/dasse788/Desktop/GLprimer/glew/CMakeFiles/GLEW.dir
+//ad.liu.se/home/dasse788/Desktop/GLprimer/glew/CMakeFiles/INSTALL.dir
+//ad.liu.se/home/dasse788/Desktop/GLprimer/glew/CMakeFiles/ALL_BUILD.dir

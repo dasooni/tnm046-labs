@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\GLprimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\Rotator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\TriangleSoup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\Utilities.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\Rotator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\Shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\Texture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\TriangleSoup.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\Utilities.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="\\ad.liu.se\home\dasse788\Desktop\GLprimer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E6E2FB87-1338-329E-A1A7-C9F43220C8F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{42E7982B-53F9-3B81-B8F6-5D16BFF33D04}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
